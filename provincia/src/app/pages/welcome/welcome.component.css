@@ -1,0 +1,71 @@
+.chontacuros{
+    background-color: rgb(8, 94, 38); 
+    display: flex;
+     
+}
+.columna {
+    flex: 1;
+    padding: 20px;
+    border: 1px;
+    box-sizing: border-box;
+}
+.chontacuros h2{
+    color: rgb(231, 238, 27);
+    text-align: center;
+
+}
+.chontacuros img {
+    border-radius: 30px;
+    height: 250px;
+    width: 250px;
+    position: relative;
+    display:block;
+    margin:auto;
+}
+.chontacuros p {
+    text-align: center;
+}
+
+.pie{
+    background-color: rgb(8, 94, 38); 
+    text-align: center;
+    border: 2px;
+    display:block;
+    margin:auto;
+    color: rgb(219, 252, 6);
+}
+
+
+.pie img {
+
+    margin:auto;
+    border: 1px;
+    width: 1000px ;
+    height: 900px;
+}
+.h1 {
+    text-align: center;
+    background-color: rgb(8, 94, 38); 
+    color: rgb(219, 252, 6);
+}
+.chontacuros p{
+    color: rgb(226, 244, 25);
+}
+
+.pie h1{
+        text-align: center;
+        background-color: rgb(8, 94, 38); 
+        color: rgb(219, 252, 6);
+}
+
+.escudo {
+    width: 0;
+    height: 0;
+    border-left: 1090px solid #428bca;
+    border-bottom: 700px solid #d9534f; 
+    margin: auto;
+    
+}
+.header div{
+    background-color: #057307;
+}
