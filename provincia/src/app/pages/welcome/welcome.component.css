@@ -64,8 +64,8 @@
     border-left: 1090px solid #428bca;
     border-bottom: 700px solid #d9534f; 
     margin: auto;
-    
+
 }
-.header div{
-    background-color: #057307;
+.header {
+    background-color: rgb(8, 94, 38); 
 }
